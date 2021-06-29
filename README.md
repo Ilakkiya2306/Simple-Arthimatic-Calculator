@@ -1,1 +1,1 @@
-# Simple-Arthimatic-Calculator
+# Simple-Arthimetic-Calculator
